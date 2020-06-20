@@ -1,0 +1,6 @@
+[submodule "lib/SdFat"]
+	path = lib/SdFat
+	url = https://github.com/fukuen/SdFat
+[submodule "lib/Maixduino_Commons"]
+	path = lib/Maixduino_Commons
+	url = https://github.com/fukuen/Maixduino_Commons
